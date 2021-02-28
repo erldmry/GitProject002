@@ -10,6 +10,7 @@ public class Class001 {
 		// Thank you for joining.
 		// Here is new commit yeniden.
 		// Is an issue is on main branch
+		//Is an issue is on main branch 2 time
 	}
 
 }
