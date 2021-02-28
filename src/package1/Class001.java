@@ -8,7 +8,7 @@ public class Class001 {
 		//Hello there 
 		// How are you
 		// Thank you for joining.
-		
+		// Here is new commit yeniden.
 	}
 
 }
